@@ -1,0 +1,33 @@
+{
+    "name": "linkIt",
+    "title": "LinkIt jQuery plugin",
+    "description": "jQuery plugin to convert any element into a link.",
+    "keywords": [
+        "link",
+        "html",
+        "content"
+    ],
+    "version": "0.1.0",
+    "author": {
+        "name": "erschus",
+        "url": "https://github.com/erschus/jquery.linkIt"
+    },
+    "maintainers": [
+        {
+            "name": "Erik Schults",
+            "email": "erschus@yandex.com",
+            "url": "https://github.com/erschus"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/erschus/jquery.linkIt/LICENSE.txt"
+        }
+    ],
+    "homepage": "https://github.com/erschus/jquery.linkIt",
+    "docs": "https://github.com/erschus/jquery.linkIt",
+    "dependencies": {
+        "jquery": ">=1.9"
+    }
+}
